@@ -10,22 +10,19 @@ using System.Windows.Forms;
 
 namespace Stote_App
 {
-    public partial class main : Form
+    public partial class @lock : Form
     {
-        public main()
+        public @lock()
         {
             InitializeComponent();
         }
 
-        private void pictureBox2_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            this.Close();
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            @lock lck = new @lock();
-            lck.ShowDialog();
+            if(txt_pass.Text == "1617")
+            {
+                this.Close();
+            }
         }
     }
 }
