@@ -27,5 +27,11 @@ namespace Stote_App
             @lock lck = new @lock();
             lck.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            products.add_new add_N = new products.add_new();
+            add_N.ShowDialog();
+        }
     }
 }

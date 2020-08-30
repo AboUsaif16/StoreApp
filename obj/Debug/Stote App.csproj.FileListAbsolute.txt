@@ -9,3 +9,4 @@ D:\Work\obj\Debug\Stote App.exe
 D:\Work\obj\Debug\Stote App.pdb
 D:\Work\obj\Debug\Stote_App.main.resources
 D:\Work\obj\Debug\Stote_App.lock.resources
+D:\Work\obj\Debug\Stote_App.products.add_new.resources
