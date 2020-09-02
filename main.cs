@@ -30,8 +30,30 @@ namespace Stote_App
 
         private void button1_Click(object sender, EventArgs e)
         {
-            products.add_new add_N = new products.add_new();
+            products.add_product add_N = new products.add_product();
             add_N.ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            users.add_user add_N = new users.add_user();
+            add_N.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            users.pay pay = new users.pay();
+            pay.ShowDialog();
+        }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void materialRadioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -118,40 +118,55 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="grand_master_key_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\grand_master_key_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="purchase_order_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\purchase_order_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="add_user_male_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\icons\add_user_male_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="lock_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\lock_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="male_user_96px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\male_user_96px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="moleskine_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\moleskine_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pay_30px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\pay_30px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="general_ledger_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\general_ledger_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="save_30px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\save_30px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cash_in_hand_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\cash_in_hand_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="save_50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\save_50px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="add_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\icons\add_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="add_fingerprint_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\add_fingerprint_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="male_user_96px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\male_user_96px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="sign_out_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\icons\sign_out_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="purchase_order_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\purchase_order_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="lock_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\lock_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="add_fingerprint_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\add_fingerprint_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cash_in_hand_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\cash_in_hand_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_ledger_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\general_ledger_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grand_master_key_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\grand_master_key_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="save_50px1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\save_50px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="search_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\icons\search_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="moleskine_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\moleskine_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="move_stock_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\move_stock_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

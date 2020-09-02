@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Stote_App.products
 {
-    public partial class add_new : Form
+    public partial class add_product : Form
     {
-        public add_new()
+        public add_product()
         {
             InitializeComponent();
         }
@@ -23,6 +23,11 @@ namespace Stote_App.products
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void add_product_Load(object sender, EventArgs e)
         {
 
         }
