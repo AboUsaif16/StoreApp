@@ -15,3 +15,4 @@ D:\Work\obj\Debug\Stote App.exe.manifest
 D:\Work\obj\Debug\Stote App.application
 D:\Work\obj\Debug\Stote App.exe
 D:\Work\obj\Debug\Stote App.pdb
+D:\Work\obj\Debug\Stote App.csprojAssemblyReference.cache

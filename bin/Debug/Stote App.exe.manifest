@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Stote App.exe" size="76768">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Stote App.exe" size="78816">
       <assemblyIdentity name="Stote App" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HGbe7lUIGghP4cJdT43ik1ybI9WZuosuZNOngC3WX50=</dsig:DigestValue>
+        <dsig:DigestValue>PZD3QdfOPx/BimKQOit35mf7JKSRlTI9wRUf6wP8WC4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

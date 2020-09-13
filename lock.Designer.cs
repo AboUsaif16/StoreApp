@@ -39,19 +39,19 @@
             // 
             // txt_pass
             // 
-            this.txt_pass.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(154)))), ((int)(((byte)(180)))));
-            this.txt_pass.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txt_pass.BackColor = System.Drawing.Color.Black;
+            this.txt_pass.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txt_pass.Font = new System.Drawing.Font("Cairo", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_pass.ForeColor = System.Drawing.Color.White;
-            this.txt_pass.Location = new System.Drawing.Point(37, 141);
+            this.txt_pass.Location = new System.Drawing.Point(37, 139);
             this.txt_pass.Margin = new System.Windows.Forms.Padding(5, 8, 5, 8);
             this.txt_pass.Name = "txt_pass";
-            this.txt_pass.Size = new System.Drawing.Size(217, 30);
+            this.txt_pass.Size = new System.Drawing.Size(217, 37);
             this.txt_pass.TabIndex = 1;
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(11)))), ((int)(((byte)(127)))), ((int)(((byte)(213)))));
+            this.button1.BackColor = System.Drawing.Color.Black;
             this.button1.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -70,7 +70,9 @@
             // 
             this.linkLabel1.ActiveLinkColor = System.Drawing.Color.White;
             this.linkLabel1.AutoSize = true;
+            this.linkLabel1.BackColor = System.Drawing.Color.Black;
             this.linkLabel1.Font = new System.Drawing.Font("Cairo", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel1.ForeColor = System.Drawing.SystemColors.AppWorkspace;
             this.linkLabel1.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(154)))), ((int)(((byte)(180)))));
             this.linkLabel1.Location = new System.Drawing.Point(67, 180);
             this.linkLabel1.Name = "linkLabel1";
@@ -105,7 +107,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 36F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(2)))), ((int)(((byte)(67)))), ((int)(((byte)(116)))));
+            this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(265, 343);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.linkLabel1);
